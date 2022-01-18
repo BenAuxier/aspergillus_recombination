@@ -11,6 +11,6 @@ The 04.LD.analysis.sh script then analyzes this script using plink to calculate 
 
 Finally, the 05.summarize.R script summarizes the large LD plink output files, produces rsq_means.tab and subsampled variants. These are then used for plotting LD decay.
 
-Due to size restrictions, only the first chromosome of our final filtered VCF of our mapping population can be found here, as well as the first chromosome for only 40 of the 175 individuals of the population level VCF. The full VCF files are available from ben.auxier@wur.nl currently, and will be put on a repository such as Zenodo following publication.
+Due to size restrictions, only the first chromosome of our final filtered VCF (final.select.loci....) of our mapping population can be found here, as well as the first chromosome for only 32 of the 175 individuals of the population level VCF (barber.data....). The full VCF files are available from ben.auxier@wur.nl currently, and will be put on a repository such as Zenodo following publication.
 
 NOTE: this pipeline is largely inspired by the extremely well documented pileine of Lofgren et al. found at https://github.com/MycoPunk/Afum_PopPan
