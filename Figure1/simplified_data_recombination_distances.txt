@@ -1,0 +1,410 @@
+
+1	35.00	111	Arabidopsis	Plant
+2	22.00	76	Arabidopsis	Plant
+3	25.00	86	Arabidopsis	Plant
+4	21.00	70	Arabidopsis	Plant
+5	31.00	100	Arabidopsis	Plant
+1	90.09	117	Tomato	Plant
+2	49.82	110	Tomato	Plant
+3	64.77	105	Tomato	Plant
+4	64.04	108	Tomato	Plant
+5	64.92	96	Tomato	Plant
+6	45.76	88	Tomato	Plant
+7	65.05	75	Tomato	Plant
+8	62.65	77	Tomato	Plant
+9	67.65	97	Tomato	Plant
+10	64.54	84	Tomato	Plant
+11	53.31	99	Tomato	Plant
+12	65.23	99	Tomato	Plant
+1	199.00	484	Chicken	Animal
+2	154.00	312	Chicken	Animal
+3	114.00	269	Chicken	Animal
+4	94.00	202	Chicken	Animal
+5	62.00	158	Chicken	Animal
+6	37.00	110	Chicken	Animal
+7	38.00	113	Chicken	Animal
+8	30.00	92	Chicken	Animal
+9	25.00	89	Chicken	Animal
+10	22.00	89	Chicken	Animal
+11	22.00	69	Chicken	Animal
+12	20.00	74	Chicken	Animal
+13	18.00	59	Chicken	Animal
+14	16.00	67	Chicken	Animal
+15	13.00	55	Chicken	Animal
+17	11.00	53	Chicken	Animal
+18	11.00	52	Chicken	Animal
+19	10.00	53	Chicken	Animal
+20	14.00	52	Chicken	Animal
+21	6.70	53	Chicken	Animal
+22	3.80	59	Chicken	Animal
+23	6.00	45	Chicken	Animal
+24	6.40	48	Chicken	Animal
+25	1.70	57	Chicken	Animal
+26	5.10	47	Chicken	Animal
+27	4.60	53	Chicken	Animal
+28	4.40	52	Chicken	Animal
+LGB1	0.90	53	Chicken	Animal
+1	245.00	286	Human	Animal
+2	242.00	264	Human	Animal
+3	199.00	224	Human	Animal
+4	191.00	214	Human	Animal
+5	180.00	208	Human	Animal
+6	171.00	196	Human	Animal
+7	158.00	188	Human	Animal
+8	146.00	169	Human	Animal
+9	140.00	167	Human	Animal
+10	135.00	175	Human	Animal
+11	134.00	162	Human	Animal
+12	132.00	176	Human	Animal
+13	96.00	132	Human	Animal
+14	87.00	125	Human	Animal
+15	80.00	132	Human	Animal
+16	89.00	133	Human	Animal
+17	78.00	139	Human	Animal
+18	76.00	130	Human	Animal
+19	63.00	111	Human	Animal
+20	62.00	114	Human	Animal
+21	33.00	69	Human	Animal
+22	34.00	80	Human	Animal
+1	0.23	105	Budding Yeast	Fungi
+2	0.81	310	Budding Yeast	Fungi
+3	0.32	150	Budding Yeast	Fungi
+4	1.53	480	Budding Yeast	Fungi
+5	0.58	225	Budding Yeast	Fungi
+6	0.27	125	Budding Yeast	Fungi
+7	1.09	400	Budding Yeast	Fungi
+8	0.56	225	Budding Yeast	Fungi
+9	0.44	175	Budding Yeast	Fungi
+10	0.75	275	Budding Yeast	Fungi
+11	0.67	250	Budding Yeast	Fungi
+12	1.08	400	Budding Yeast	Fungi
+13	0.92	310	Budding Yeast	Fungi
+14	0.78	275	Budding Yeast	Fungi
+15	1.09	375	Budding Yeast	Fungi
+16	0.95	340	Budding Yeast	Fungi
+1	13.86	51	C. elegans	Animal
+2	14.70	51	C. elegans	Animal
+3	12.80	50	C. elegans	Animal
+4	16.10	48	C. elegans	Animal
+5	20.80	50	C. elegans	Animal
+1	622.00	133	Barley	Plant
+2	790.00	150	Barley	Plant
+3	755.00	155	Barley	Plant
+4	729.00	115	Barley	Plant
+5	760.00	170	Barley	Plant
+6	689.00	127	Barley	Plant
+7	755.00	141	Barley	Plant
+1	196.26	97	Mouse	Animal
+2	180.99	102	Mouse	Animal
+3	156.50	79	Mouse	Animal
+4	154.42	84	Mouse	Animal
+5	150.23	87	Mouse	Animal
+6	148.41	77	Mouse	Animal
+7	152.14	87	Mouse	Animal
+8	131.42	74	Mouse	Animal
+9	123.10	71	Mouse	Animal
+10	128.39	75	Mouse	Animal
+11	119.17	81	Mouse	Animal
+12	120.30	61	Mouse	Animal
+13	120.13	65	Mouse	Animal
+14	124.00	61	Mouse	Animal
+15	102.99	56	Mouse	Animal
+16	97.13	55	Mouse	Animal
+17	93.60	59	Mouse	Animal
+18	89.74	57	Mouse	Animal
+19	59.96	53	Mouse	Animal
+1	160.80	166	Cow	Animal
+2	139.00	148	Cow	Animal
+3	126.10	142	Cow	Animal
+4	123.70	133	Cow	Animal
+5	124.80	130	Cow	Animal
+6	122.50	134	Cow	Animal
+7	111.70	126	Cow	Animal
+8	116.70	124	Cow	Animal
+9	107.10	110	Cow	Animal
+10	103.90	119	Cow	Animal
+11	109.60	130	Cow	Animal
+12	84.80	117	Cow	Animal
+13	83.70	118	Cow	Animal
+14	81.10	127	Cow	Animal
+15	81.00	110	Cow	Animal
+16	77.80	112	Cow	Animal
+17	75.00	97	Cow	Animal
+18	65.80	103	Cow	Animal
+19	63.80	101	Cow	Animal
+20	73.80	74	Cow	Animal
+21	66.80	90	Cow	Animal
+22	59.90	91	Cow	Animal
+23	53.10	90	Cow	Animal
+24	64.90	86	Cow	Animal
+25	42.90	62	Cow	Animal
+26	51.70	70	Cow	Animal
+27	48.70	61	Cow	Animal
+28	45.10	57	Cow	Animal
+29	51.50	68	Cow	Animal
+1	0.74	51	Trypanosoma	Other
+2	0.74	48	Trypanosoma	Other
+3	1.25	47	Trypanosoma	Other
+4	1.05	54	Trypanosoma	Other
+5	1.20	91	Trypanosoma	Other
+6	0.94	42	Trypanosoma	Other
+7	1.65	47	Trypanosoma	Other
+8	2.30	116	Trypanosoma	Other
+9	2.10	73	Trypanosoma	Other
+10	2.50	76	Trypanosoma	Other
+11	3.42	88	Trypanosoma	Other
+1	5.57	793	Fission yeast	Fungi
+2	4.54	625	Fission yeast	Fungi
+3	2.45	347	Fission yeast	Fungi
+1	25.70	613	Honey Bee	Animal
+2	13.80	339	Honey Bee	Animal
+3	11.90	287	Honey Bee	Animal
+4	10.80	297	Honey Bee	Animal
+5	12.80	274	Honey Bee	Animal
+6	14.70	311	Honey Bee	Animal
+7	10.30	241	Honey Bee	Animal
+8	11.50	240	Honey Bee	Animal
+9	9.50	232	Honey Bee	Animal
+10	10.20	253	Honey Bee	Animal
+11	12.20	249	Honey Bee	Animal
+12	11.30	240	Honey Bee	Animal
+13	9.20	214	Honey Bee	Animal
+14	9.00	221	Honey Bee	Animal
+15	8.90	196	Honey Bee	Animal
+16	6.20	141	Honey Bee	Animal
+1	300.28	254	Corn	Plant
+2	235.01	190	Corn	Plant
+3	230.39	208	Corn	Plant
+4	240.12	186	Corn	Plant
+5	205.55	135	Corn	Plant
+6	168.36	132	Corn	Plant
+7	172.93	136	Corn	Plant
+8	174.43	168	Corn	Plant
+9	154.64	158	Corn	Plant
+10	148.97	123	Corn	Plant
+1	11.50	329	Fusarium	Fungi
+2	8.60	368	Fusarium	Fungi
+3	7.70	238	Fusarium	Fungi
+4	7.90	208	Fusarium	Fungi
+1	20.90	90	Strawberry	Plant
+2	24.30	72	Strawberry	Plant
+3	32.00	68	Strawberry	Plant
+4	27.00	86	Strawberry	Plant
+5	28.20	73	Strawberry	Plant
+6	39.00	90	Strawberry	Plant
+7	22.30	80	Strawberry	Plant
+8	1.95	145	Button mushroom	Fungi
+1	3.34	136	Button mushroom	Fungi
+3	3.11	120	Button mushroom	Fungi
+9	1.64	118	Button mushroom	Fungi
+10	1.75	103	Button mushroom	Fungi
+7	2.28	98	Button mushroom	Fungi
+6	2.33	92	Button mushroom	Fungi
+11	1.69	83	Button mushroom	Fungi
+12	1.68	78	Button mushroom	Fungi
+2	3.35	73	Button mushroom	Fungi
+5	2.55	39	Button mushroom	Fungi
+13	1.34	38	Button mushroom	Fungi
+4	3.01	33	Button mushroom	Fungi
+1	147.10	357	Cotton	Plant
+2	101.00	116	Cotton	Plant
+3	102.90	130	Cotton	Plant
+4	137.70	273	Cotton	Plant
+5	59.70	76	Cotton	Plant
+6	121.30	149	Cotton	Plant
+7	127.70	207	Cotton	Plant
+8	127.40	146	Cotton	Plant
+9	96.60	151	Cotton	Plant
+10	114.70	178	Cotton	Plant
+11	105.70	142	Cotton	Plant
+12	146.00	248	Cotton	Plant
+13	144.10	221	Cotton	Plant
+1	0.64	45.4	Plasmodium	Other
+2	0.947	70	Plasmodium	Other
+3	1.06	90	Plasmodium	Other
+4	1.204	75	Plasmodium	Other
+5	1.343	100	Plasmodium	Other
+6	1.418	100	Plasmodium	Other
+7	1.501	85	Plasmodium	Other
+8	1.419	100	Plasmodium	Other
+9	1.541	120	Plasmodium	Other
+10	1.687	120	Plasmodium	Other
+11	2.038	150	Plasmodium	Other
+12	2.271	150	Plasmodium	Other
+13	2.896	195	Plasmodium	Other
+14	3.291	230	Plasmodium	Other
+1	40.3	148.304	Eucalyptus	Plant
+2	64.24	190.7928	Eucalyptus	Plant
+3	80.09	172.9944	Eucalyptus	Plant
+4	41.98	116.2846	Eucalyptus	Plant
+5	74.73	147.9654	Eucalyptus	Plant
+6	53.89	197.2374	Eucalyptus	Plant
+7	52.45	143.713	Eucalyptus	Plant
+8	74.33	199.9477	Eucalyptus	Plant
+9	39.02	117.4502	Eucalyptus	Plant
+10	39.36	149.9616	Eucalyptus	Plant
+11	45.51	148.8177	Eucalyptus	Plant
+1	119.8	246	Flycatcher	Animal
+1A	74.8	206	Flycatcher	Animal
+2	157.4	316	Flycatcher	Animal
+3	115.7	225	Flycatcher	Animal
+4	70.3	167	Flycatcher	Animal
+4A	21.2	80	Flycatcher	Animal
+5	64.6	170	Flycatcher	Animal
+6	37.2	121	Flycatcher	Animal
+7	39.3	122	Flycatcher	Animal
+8	32	96	Flycatcher	Animal
+9	26.8	96	Flycatcher	Animal
+10	21.3	94	Flycatcher	Animal
+11	21.7	81	Flycatcher	Animal
+12	21.9	84	Flycatcher	Animal
+13	18.6	87	Flycatcher	Animal
+14	17.4	87	Flycatcher	Animal
+15	14.9	59	Flycatcher	Animal
+17	12.4	73	Flycatcher	Animal
+18	13.1	79	Flycatcher	Animal
+19	11.9	58	Flycatcher	Animal
+20	15.6	53	Flycatcher	Animal
+21	8.1	48	Flycatcher	Animal
+22	5.7	53	Flycatcher	Animal
+23	7.9	49	Flycatcher	Animal
+24	8	50	Flycatcher	Animal
+25	2.7	47	Flycatcher	Animal
+26	7.6	46	Flycatcher	Animal
+27	5.5	73	Flycatcher	Animal
+28	6.1	48	Flycatcher	Animal
+1	22	55	Capsella	Plant
+2	17	45	Capsella	Plant
+3	18	48	Capsella	Plant
+4	17	43	Capsella	Plant
+5	18	55	Capsella	Plant
+6	23	50	Capsella	Plant
+7	21	50	Capsella	Plant
+8	6	45	Capsella	Plant
+1	44	54	Killifish	Animal
+2	45	54	Killifish	Animal
+3	31	50	Killifish	Animal
+4	47	55	Killifish	Animal
+5	27	43	Killifish	Animal
+6	33	53	Killifish	Animal
+7	35	45	Killifish	Animal
+8	36	61	Killifish	Animal
+9	40	60	Killifish	Animal
+10	38	48	Killifish	Animal
+11	28	43	Killifish	Animal
+12	27	61	Killifish	Animal
+13	33	47	Killifish	Animal
+14	27	49	Killifish	Animal
+15	37	45	Killifish	Animal
+16	47	51	Killifish	Animal
+17	33	44	Killifish	Animal
+18	35	48	Killifish	Animal
+19	29	61	Killifish	Animal
+20	36	51	Killifish	Animal
+21	38	60	Killifish	Animal
+22	34	55	Killifish	Animal
+23	18	60	Killifish	Animal
+24	23	45	Killifish	Animal
+1	6.088	351.58	Zymoseptoria	Fungi
+2	3.86	250.74	Zymoseptoria	Fungi
+3	3.505	240.19	Zymoseptoria	Fungi
+4	2.88	217.03	Zymoseptoria	Fungi
+5	2.861	201.39	Zymoseptoria	Fungi
+6	2.675	188.22	Zymoseptoria	Fungi
+7	2.665	166.57	Zymoseptoria	Fungi
+8	2.443	165.56	Zymoseptoria	Fungi
+9	2.142	169.94	Zymoseptoria	Fungi
+10	1.682	140.97	Zymoseptoria	Fungi
+11	1.624	154.48	Zymoseptoria	Fungi
+12	1.462	138.58	Zymoseptoria	Fungi
+13	1.185	121.46	Zymoseptoria	Fungi
+16	0.607	49.24	Zymoseptoria	Fungi
+17	0.584	53.34	Zymoseptoria	Fungi
+19	0.549	58.39	Zymoseptoria	Fungi
+20	0.472	55.94	Zymoseptoria	Fungi
+1	15.3	92	Carp	Animal
+2	19	81	Carp	Animal
+3	20.57	77	Carp	Animal
+4	11.35	127	Carp	Animal
+5	20.92	56	Carp	Animal
+6	19.72	79	Carp	Animal
+7	14.16	83	Carp	Animal
+8	19.8	98	Carp	Animal
+9	24.32	87	Carp	Animal
+10	22.67	99	Carp	Animal
+11	19.05	83	Carp	Animal
+12	12.73	115	Carp	Animal
+13	25.16	76	Carp	Animal
+14	18.39	84	Carp	Animal
+15	8.52	85	Carp	Animal
+16	20.61	66	Carp	Animal
+17	15.85	85	Carp	Animal
+18	22.44	191	Carp	Animal
+19	7.32	98	Carp	Animal
+20	16.77	113	Carp	Animal
+21	12.99	167	Carp	Animal
+22	8.4	99	Carp	Animal
+23	18.44	52	Carp	Animal
+24	12.45	53	Carp	Animal
+25	8.54	85	Carp	Animal
+26	16.35	115	Carp	Animal
+27	16.3	108	Carp	Animal
+28	22.27	105	Carp	Animal
+29	17.52	109	Carp	Animal
+30	18.52	124	Carp	Animal
+31	24.6	107	Carp	Animal
+32	26.1	109	Carp	Animal
+33	24.14	89	Carp	Animal
+34	18.89	127	Carp	Animal
+35	29.13	95	Carp	Animal
+36	22.74	97	Carp	Animal
+37	11.25	97	Carp	Animal
+38	27.92	47	Carp	Animal
+39	16.26	88	Carp	Animal
+40	23.49	78	Carp	Animal
+41	15.85	49	Carp	Animal
+42	13.57	104	Carp	Animal
+43	14.33	103	Carp	Animal
+44	15.9	109	Carp	Animal
+45	17.31	126	Carp	Animal
+46	7.83	89	Carp	Animal
+47	16.76	94	Carp	Animal
+48	22.47	110	Carp	Animal
+49	11.14	84	Carp	Animal
+50	7.65	64	Carp	Animal
+1	42.7	182	Rice	Plant
+2	35.8	158	Rice	Plant
+3	35.7	164	Rice	Plant
+4	34.5	126	Rice	Plant
+5	30.9	122	Rice	Plant
+6	28.2	124	Rice	Plant
+7	30.3	119	Rice	Plant
+8	25.8	119	Rice	Plant
+9	20.3	93	Rice	Plant
+10	24.6	84	Rice	Plant
+11	28.6	118	Rice	Plant
+12	25.5	109	Rice	Plant
+1	4.66	1654	A.fumigatus	Fungi
+2	4.87	1704	A.fumigatus	Fungi
+3	4.03	1887	A.fumigatus	Fungi
+4	3.77	1429	A.fumigatus	Fungi
+5	3.92	1465	A.fumigatus	Fungi
+6	3.86	1615	A.fumigatus	Fungi
+7	1.72	872	A.fumigatus	Fungi
+8	1.79	899	A.fumigatus	Fungi
+1	6.3	340	A.flavus	Fungi
+2	6.25	270	A.flavus	Fungi
+3	5.1	250	A.flavus	Fungi
+4	4.66	252	A.flavus	Fungi
+5	4.45	200	A.flavus	Fungi
+6	3.94	230	A.flavus	Fungi
+7	3.03	175	A.flavus	Fungi
+8	3.18	280	A.flavus	Fungi
+1	3.68	383	A.nidulans	Fungi
+2	3.99	439	A.nidulans	Fungi
+3	3.38	425	A.nidulans	Fungi
+4	2.80	322	A.nidulans	Fungi
+5	3.08	480	A.nidulans	Fungi
+6	3.33	460	A.nidulans	Fungi
+7	4.46	566	A.nidulans	Fungi
+8	4.85	546	A.nidulans	Fungi
