@@ -1,3 +1,7 @@
+These scripts are kept as they were used in the bioRxiv version of this manuscript, but they are not included in the updated version, as similar results have been published by Lofgren et al. 2022. https://journals.plos.org/plosbiology/article/authors?id=10.1371/journal.pbio.3001890
+
+=====================================================================
+
 This set of scripts is used for the analysis of LD decay in Figure 1.
 
 The first script is 02.downloader.sh, which downloads the SRA data from Baber et al., 20201 https://doi.org/10.1038/s41564-021-00993-xf
